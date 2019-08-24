@@ -1,0 +1,17 @@
+{
+  "name": "flower-shop",
+  "version": "1.0.0",
+  "description": "Flower shop POS console application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgrnwd/flower-shop.git"
+  },
+  "author": "Roni Greenwood",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
