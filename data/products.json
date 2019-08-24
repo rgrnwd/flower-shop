@@ -1,0 +1,28 @@
+[
+  {
+    "id": "R12",
+    "name": "Roses",
+    "pricing": [
+      { "itemCount": 5, "price": 6.99 },
+      { "itemCount": 10, "price": 12.99 }
+    ]
+  },
+  {
+    "id": "L09",
+    "name": "Lilies",
+    "pricing": [
+      { "itemCount": 3, "price": 9.95 },
+      { "itemCount": 6, "price": 16.95 },
+      { "itemCount": 9, "price": 24.95 }
+    ]
+  },
+  {
+    "id": "T58",
+    "name": "Tulips",
+    "pricing": [
+      { "itemCount": 3, "price": 5.95 },
+      { "itemCount": 5, "price": 9.95 },
+      { "itemCount": 9, "price": 16.99 }
+    ]
+  }
+]
